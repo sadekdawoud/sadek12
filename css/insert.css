@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.containter{
+    width: 80%;
+    height: 300px;
+    margin: auto;
+}
